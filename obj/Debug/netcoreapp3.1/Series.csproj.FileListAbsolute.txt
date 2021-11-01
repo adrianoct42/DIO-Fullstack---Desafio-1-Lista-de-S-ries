@@ -1,0 +1,14 @@
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+D:\ADRIANO\UFOP\CURSOS\BOOTCAMPS\FULLSTACK_TAKE_DIO\1- Criando um APP simples de cadastro de séries em .NET\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
